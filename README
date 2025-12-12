@@ -1,0 +1,1 @@
+To get the dashboard on your laptop, download app.py. Open termila navigate to the repository of the file and run the following command **streamlit run app.py **
